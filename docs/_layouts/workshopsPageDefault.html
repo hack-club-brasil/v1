@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body>
+
+  {%- include header.html -%}
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+    <div class="ws-section">
+      <ul class="ws-grid">
+        {%- assign pages = site.pages | sort: 'order' -%}
+        {%- for my_page in pages -%}
+          {%- if my_page.title and my_page.title != 'Workshops' and my_page.title != 'Sobre' and my_page.title != 'Traduzir Workshops' and my_page.title != 'Código de Conduta' and my_page.title != 'Hack Club Brasil' and my_page.title != 'Filosofia'-%}
+            <li>
+              <div class="ws-box" style="background-image: url('{{ my_page.bg-image }}');">
+                <a href="{{ my_page.url | relative_url }}" class="wslink">
+                  <div class="ws-info">
+                    <h3>{{ my_page.title | escape }}</h3>
+                    <p>{{ my_page.description | escape }}</p>
+                  </div>
+                </a>
+              </div>
+            </li>
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+      <div class="mini-resizer"></div>
+    </div>
+
+    {%- include footer.html -%}
+
+</body>
+
+</html>

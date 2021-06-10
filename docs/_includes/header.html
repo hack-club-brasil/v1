@@ -1,0 +1,48 @@
+<header class="site-header" role="banner">
+  {%- assign default_paths = site.pages | map: "path" -%}
+  {%- assign page_paths = site.header_pages | default: default_paths -%}
+  <div class="navbar-area">
+    <div class="container">
+      <nav class="site-navbar">
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="/hc-brasil.svg" href=""></a>
+
+        <ul>
+            <li><a class="red-link" href="https://apply.hackclub.com">INSCREVA-SE</a></li>
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title and (my_page.title == 'Workshops') -%}
+              <li><a class="red-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+            {%- endif -%}
+          {%- endfor -%}
+        </ul>
+        <button class="nav-toggler">
+          <span></span>
+        </button>
+      </nav>
+    </div>
+  </div>
+  <script>
+    const navToggler = document.querySelector('.nav-toggler');
+    const navMenu = document.querySelector('.site-navbar ul');
+    const navLinks = document.querySelectorAll('.site-navbar a');
+    const header = document.querySelector('.site-header');
+
+allEventListners();
+
+function allEventListners() {
+  navToggler.addEventListener('click', togglerClick);
+  navLinks.forEach( elem => elem.addEventListener('click', navLinkClick));
+}
+
+function togglerClick() {
+  navToggler.classList.toggle('toggler-open');
+  navMenu.classList.toggle('open');
+}
+
+function navLinkClick() {
+  if(navMenu.classList.contains('open')) {
+    navToggler.click();
+  }
+}
+  </script>
+</header>

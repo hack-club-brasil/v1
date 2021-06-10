@@ -1,0 +1,26 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="HandheldFriendly" content="true">
+  {% seo title=false %}
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+  {%- include google-analytics.html -%}
+  {%- endif -%}
+  <title>{{ page.title }}</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Lato:wght@400;700&display=swap"
+    rel="stylesheet">
+  <link rel="mask-icon" href="https://assets.hackclub.com/favicons/safari-pinned-tab.svg" color="#ec3750" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/apple.png/" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png/" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png/" />
+  <link rel="manifest" href="/assets/site.webmanifest/" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+</head>

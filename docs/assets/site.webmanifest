@@ -1,0 +1,19 @@
+{
+    "name": "Hack Club Brasil",
+    "short_name": "Hack Club Brasil",
+    "icons": [
+      {
+        "src": "/img/android-chrome-192x192.PNG",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/img/android-chrome-512x512.PNG",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#ec3750",
+    "background_color": "#f9fafc",
+    "display": "standalone"
+  }
