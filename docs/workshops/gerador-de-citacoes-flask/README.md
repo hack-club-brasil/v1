@@ -49,7 +49,7 @@ Na primeira linha, importamos `Flask` e `render_template`. O `render_template` n
 
 ## Criando sua primeira rota do Flask
 
-Uma rota no Flask é como definimos os caminhos em nossa aplicação. Um exemplo seria `https://hackclubbrasil.com.br/workshops` - a rota seria `/workshops`.
+Uma rota no Flask é como definimos os caminhos em nossa aplicação. Um exemplo seria `https://brasil.hackclub.com/workshops` - a rota seria `/workshops`.
 
 Vamos criar uma instância do `Flask` e criar nossa primeira rota. Abaixo das duas primeiras linhas que você escreveu, acrescente:
 

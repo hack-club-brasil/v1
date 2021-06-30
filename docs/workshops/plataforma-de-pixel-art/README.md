@@ -41,17 +41,17 @@ Estamos quebrando as regras neste workshop - mas quebrar as regras sem entendê-
 
 Alguns dos outros workshops bem criativos:
 
--> [Respingos de Tinta](https://hackclubbrasil.com.br/workshops/respingos-tinta/){:target="_blank"} <br />
+-> [Respingos de Tinta](https://brasil.hackclub.com/workshops/respingos-tinta/){:target="_blank"} <br />
 
--> [Fale Cores](https://hackclubbrasil.com.br/workshops/fale-cores/){:target="_blank"} <br />
+-> [Fale Cores](https://brasil.hackclub.com/workshops/fale-cores/){:target="_blank"} <br />
 
--> [Galáxia de Som](https://hackclubbrasil.com.br/workshops/galaxia-de-som/){:target="_blank"} <br />
+-> [Galáxia de Som](https://brasil.hackclub.com/workshops/galaxia-de-som/){:target="_blank"} <br />
 
--> [Sintetizador](https://hackclubbrasil.com.br/workshops/sintetizador/){:target="_blank"} <br />
+-> [Sintetizador](https://brasil.hackclub.com/workshops/sintetizador/){:target="_blank"} <br />
 
--> [Modelos Animados 3D](https://hackclubbrasil.com.br/workshops/modelos-3d/){:target="_blank"} <br />
+-> [Modelos Animados 3D](https://brasil.hackclub.com/workshops/modelos-3d/){:target="_blank"} <br />
 
--> [Sintonia com JS](https://hackclubbrasil.com.br/workshops/sintonia/){:target="_blank"} <br />
+-> [Sintonia com JS](https://brasil.hackclub.com/workshops/sintonia/){:target="_blank"} <br />
 
 <br />
 Agora que isso está claro, vamos começar!

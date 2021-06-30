@@ -1,5 +1,5 @@
 <p align="center"><img width="192" alt="Hack Club Brasil logo" src="/docs/hc-brasil.svg"></p>
-<h1 align="center"><a href="brasil.hackclub.com">Site do Hack Club Brasil</a></h1>
+<h1 align="center"><a href="https://brasil.hackclub.com">Site do Hack Club Brasil</a></h1>
 
 O site do Hack Club Brasil. Essa é a base de código que sustenta o brasil.hackclub.com. Para novos contribuídores, execute o seguinte no seu terminal:
 

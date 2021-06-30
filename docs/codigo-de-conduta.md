@@ -10,7 +10,7 @@ permalink: /codigo-de-conduta/
 - Trate todos com respeito e gentileza.
 - Pense bem na maneira como você se comunica.
 - Não seja tóxico ou inconveniente.
-- Se encontrar um problema, mande um e-mail para <conduct@hackclub.com>.
+- Se encontrar um problema, mande um e-mail para <brasil@hackclub.com>.
 
 ## Por que temos um Código de Conduta?
 
@@ -85,7 +85,7 @@ Por favor entenda que o que você faz e fala tem consequências, e comportamento
 
 Esse procedimento serve apenas como um guia geral de moderação e punições para a conduta da comunidade. Independentemente de qualquer circunstância, a equipe do Hack Club podem tomar qualquer medida que acharem apropriada, incluindo remoção imediata da comunidade. Ser banido da comunidade do Hack Club também significa que você não poderá participar de nossas atividades, incluindo mas não restrito a: encontros locais de clubes, hackathons, ou desafios.
 
-Note que isso não vai restringir a possibilidade de você entrar em contato com [nossa equipe de moderação](#working-group) sob qualquer circunstância. Se você tem qualquer questão ou discorda de nossas decisões, por favor nos contate diretamente. Se sua conta do Slack ou do Discord foi suspensa, você deve enviar um e-mail para conduct@hackclub.com.
+Note que isso não vai restringir a possibilidade de você entrar em contato com [nossa equipe de moderação](#working-group) sob qualquer circunstância. Se você tem qualquer questão ou discorda de nossas decisões, por favor nos contate diretamente. Se sua conta do Slack ou do Discord foi suspensa, você deve enviar um e-mail para brasil@hackclub.com.
 
 ## Equipe
 
@@ -95,7 +95,7 @@ A equipe é responsável por gerenciar problemas relacionados à conduta. Sua mi
 
 Se você encontrar algum problema relacionado a este Código de Conduta, você deve reportar à nossa equipe utilizando o processo abaixo. **Não** poste sobre o problema publicamente nem tente causar mais intrigas com determinada pessoa ou grupo.
 
-- Envie um e-mail para conduct@hackclub.com
+- Envie um e-mail para brasil@hackclub.com
   - Sua mensagem chegará até nossa equipe.
   - Denúncias são confidenciais entre você e nossa equipe.
   - Se você escolher por manter sua identidade anônima, não poderemos te notificar sobre o status da denúncia.
