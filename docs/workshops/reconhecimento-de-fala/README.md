@@ -254,7 +254,7 @@ Vamos entender melhor:
 
 Muito bem, vamos testá-lo! Clique no botão verde "Run" no topo do seu repl para executar o programa. Eu recomendo abrir a visualização em uma nova aba. Se tudo correr bem, o Google Chrome irá solicitar que você permita o acesso ao microfone. Permita o acesso ao seu microfone. Então, fale em com seu computador!
 
-Se não funcionar, passe pelo seu código linha por linha e tente ver se você consegue encontrar o que deu errado. Se você estiver confuso, pergunte ao líder do seu clube ou para um Hack Clubber da comunidade no [Discord](https://discord.gg/xZmn84EtPk).
+Se não funcionar, passe pelo seu código linha por linha e tente ver se você consegue encontrar o que deu errado. Se você estiver confuso, pergunte ao líder do seu clube ou para um Hack Clubber da comunidade no [Discord](https://bit.ly/discord-hc-brasil).
 
 
 Aqui está o código final em JS:

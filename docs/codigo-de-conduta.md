@@ -33,7 +33,7 @@ A execução explícita do que é especificado neste Código de Conduta se aplic
 - Os [projetos no GitHub](https://github.com/hackclub/)
 - O [grupo do Facebook](https://www.facebook.com/groups/1501083703514499/)
 - O [Slack](https://slack.hackclub.com)
-- O [Discord do Hack Club Brasil](http://discord.gg/7ftT2kAnrp)
+- O [Discord do Hack Club Brasil](https://bit.ly/discord-hc-brasil)
 - O canal `#hack-club` no Freenode
 - Encontros presenciais de clubes
 
