@@ -1,8 +1,11 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+<html lang="{{ page.lang | default: site.lang | default: " en " }}" xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:fb="http://ogp.me/ns/fb#">
 {%- include head.html -%}
 
 <body class="home-body">
+    {%- include tagmanager.html -%}
+
     {%- include header.html -%}
     <main class="home-content" aria-label="Content">
         <div class="wrapper">
