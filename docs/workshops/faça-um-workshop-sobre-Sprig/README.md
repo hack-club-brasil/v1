@@ -22,7 +22,7 @@ Sprig é uma ferramenta desenvolvida pelo Hack Club para ajudar as pessoas a com
 
 Projetamos o Sprig para se encaixar em workshops com instrução simples e criação/exploração máximas. É assim que eu administraria o Sprig como um workshop.
 
-##Demonstração (2 minutos)
+## Demonstração (2 minutos)
 
 Dê uma rápida demonstração de um jogo bastante completo com código acessível. Você pode ir para a galeria e classificar pela tag `beginner`.
 [](img/galleryrl.png)
@@ -33,7 +33,7 @@ Aqui estão alguns jogos que atendem aos critérios:
 - [Penguin Slide](https://editor.sprig.hackclub.com/?file=https://raw.githubusercontent.com/hackclub/sprig/main/games/penguin_slide.js)
 - [Nomis](https://editor.sprig.hackclub.com/?file=https://raw.githubusercontent.com/hackclub/sprig/main/games/nomis.js)
 
-##Ferramentas (3 minutos)
+## Ferramentas (3 minutos)
 
 Abra o kit de ferramentas e descreva rapidamente as diferentes coisas que você pode fazer. O ponto aqui não é explicar todas as funções. É apenas para dar às pessoas uma noção do que é possível e onde procurar ajuda. Gaste apenas alguns minutos fazendo isso! Confira o trecho abaixo para pesquisar todas as funções do Sprig.
 
@@ -52,13 +52,13 @@ E então aperte `salvar`.
 
 Arquivos recentes estão disponíveis no menu. Um asterisco ao lado do arquivo significa que suas alterações atuais não foram salvas. Os arquivos são salvos no armazenamento local do seu navegador. Eles só estarão acessíveis no computador que você está usando no momento e no navegador que você está usando. **A maneira mais confiável de salvar é baixar o arquivo `js`**.
 
-##Diga às pessoas para codar! (resto do tempo de oficina disponível)
+## Diga às pessoas para codar! (resto do tempo de oficina disponível)
 
 Diga às pessoas para começarem a trabalhar no [tutorial](https://editor.sprig.hackclub.com/?id=47c2809923efc54b4ae6b2c2d444274a).
 
 Depois que as pessoas concluírem o tutorial, incentive a começar a pensar em seu próprio jogo. Muitas vezes, uma boa maneira de criar um jogo original é começar com um existente e adicionar uma nova mecânica a ele. Confira os jogos marcados como `hackable` para encontrar bases remixáveis.
 
-##Compartilhar (10 minutos)
+## Compartilhar (10 minutos)
 
 Reúna a atenção de todos e peça que compartilhem seus jogos com você. Pergunte se alguém gostaria de fazer uma demonstração do jogo para o grupo. Celebre o trabalho e use como uma chance para cada pessoa obter feedback, inspiração e motivação.
 
@@ -66,7 +66,7 @@ Se os jogos estiverem completos, [faça um PR](https://sprig.hackclub.com/share)
 
 [](img/file.png)
 
-##Referência
+## Referência
 
 O kit de ferramentas é essencialmente todas as funções que adicionamos ao Sprig, caso contrário, é apenas JavaScript. Para obter mais informações sobre essas funções, consulte o menu de ajuda (`help`) no editor Sprig.
 
