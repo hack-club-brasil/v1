@@ -68,7 +68,7 @@ Se os jogos estiverem completos, [faça um PR](https://sprig.hackclub.com/share)
 
 ## Referência
 
-O kit de ferramentas é essencialmente todas as funções que adicionamos ao Sprig, caso contrário, é apenas JavaScript. Para obter mais informações sobre essas funções, consulte o menu de ajuda (`help`) no editor Sprig.
+O kit de ferramentas é essencialmente todas as funções que adicionamos ao Sprig, caso contrário, é apenas JavaScript. Para obter mais informações sobre essas funções, consulte a documentação em português [aqui](https://github.com/hack-club-brasil/sprig-docs-portuguese).
 
 ```
 const jogador = "j";
