@@ -15,7 +15,7 @@ order: 34
 Neste workshop, construiremos um jogo de desvio usando [Sprig](https://sprig.hackclub.com). O jogador terá que desviar dos obstáculos que caem para marcar pontos. Sprig é um mecanismo de jogo JavaScript que facilita a criação de jogos para iniciantes e experts, tudo no seu navegador.
 
 Conhecimento básico de JavaScript é recomendado para este workshop.
-Se você não estiver familiarizado com Sprig, você pode tentar fazer [seu primeiro jogo Sprig](https://brasil.hackclub.com/workshops/) (EM BREVE) para aprender o básico.
+Se você não estiver familiarizado com Sprig, você pode tentar fazer [seu primeiro jogo Sprig](https://brasil.hackclub.com/workshops/faca-seu-primeiro-jogo-sprig/) para aprender o básico.
 
 Veja como seu jogo ficará:
 
