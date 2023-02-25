@@ -9,7 +9,7 @@ order: 0
 
 <center>Faça seu primeiro website do zero</center>  
 <center>Feito por <a href="https://github.com/maxwofford" target="_blank">@maxwofford</a></center>
-<center>Traduzido por <a href="https://github.com/vitorvavolizza" target="_blank">@vitorvavolizza</a></center>
+<center>Traduzido por <a href="https://github.com/vitorvavolizza" target="_blank">@vitorvavolizza</a> e <a href="https://github.com/LucasHT22" target="_blank">@LucasHT22</a></center>
 
 <br />
 
