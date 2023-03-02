@@ -586,12 +586,3 @@ Aqui estão algumas coisas em que você poderia trabalhar para expandir este pro
 - Adicionar um botão claro para limpar o desenho da grade
 
 Agora que você terminou de construir este maravilhoso projeto, compartilhe sua bela criação com outras pessoas! Lembre-se, é só mandar a URL do seu projeto!
-
-Você provavelmente conhece as melhores maneiras de entrar em contato com seus amigos e familiares, mas se você quiser compartilhar seu projeto com a comunidade brasileira do Hack Club, não há melhor lugar para fazer isso do que no Discord do Hack Club Brasil.✨
-
-1. Clique [aqui][discord]{:target="_blank"} para fazer parte da nossa comunidade!
-2. Depois, poste o link do seu projeto no canal `💡┇criações` para compartilhá-lo com todos os Hack Clubbers!
-
-A comunidade te espera!🎉🎉
-
-[discord]: http://bit.ly/discord-hc-brasil

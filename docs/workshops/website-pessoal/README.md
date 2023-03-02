@@ -9,7 +9,7 @@ order: 0
 
 <center>Faça seu primeiro website do zero</center>  
 <center>Feito por <a href="https://github.com/maxwofford" target="_blank">@maxwofford</a></center>
-<center>Traduzido por <a href="https://github.com/vitorvavolizza" target="_blank">@vitorvavolizza</a></center>
+<center>Traduzido por <a href="https://github.com/vitorvavolizza" target="_blank">@vitorvavolizza</a> e <a href="https://github.com/LucasHT22" target="_blank">@LucasHT22</a></center>
 
 <br />
 
@@ -34,19 +34,13 @@ O [Repl.it](https://repl.it) é um editor de código online. É similar ao Googl
 
 Para começar, vá para [https://repl.it/languages/html](https://repl.it/languages/html). 
 
-Para criar seu site e poder voltar a ele no futuro, você precisará criar uma conta no Repl.it.
+Clique no botão "Sign Up" no canto superior direito.
 
-Para criar uma conta, clique no botão de inscrição no meio da tela.
+![Campos para fazer login](https://cloud-ae4zkoehw-hack-club-bot.vercel.app/0image.png)
 
-![](img/signup.PNG)
+Seu ambiente de codificação será gerado em apenas alguns segundos!
 
-Depois disso, preencha os campos:
-
-![](img/campos.png)
-
-Depois de preencher os campos, seu ambiente de codificação será gerado em apenas alguns segundos!
-
-![](img/html_repl.PNG)
+![Texto dentro de um editor de código](https://cloud-gcyfpgb0u-hack-club-bot.vercel.app/0image.png)
 
 ## Parte II: O arquivo HTML
 
@@ -56,9 +50,9 @@ HTML significa Hypertext Markup Language (Linguagem de marcação de hipertexto)
 
 Você deve ter o arquivo `index.html` aberto, e um monte de texto com símbolos `<` & `>`. Isso é HTML!
 
-![](img/html_repl.PNG)
+![Texto dentro de um editor de código](https://cloud-mgklr52aw-hack-club-bot.vercel.app/0image.png)
 
-O Repl.it nos dá algum código para começar, mas vamos começar do zero. Vá em frente e apague tudo no arquivo `index.html` e então **digite** o seguinte:
+O Repl.it nos dá algum código para começar, mas vamos começar do zero. Vá em frente e apague tudo no arquivo `index.html` e então **digite** o seguinte: 
 
 ```html
 <!DOCTYPE html>
@@ -73,9 +67,9 @@ Esta estrutura é comum a todas as páginas HTML. Na verdade, você pode dar uma
 
 <!-- Source https://developers.google.com/web/tools/chrome-devtools/inspect-styles/imgs/elements-panel.png -->
 
-![](img/elements-panel.png)
+![Inspecione o painel de elementos com estilos html e css de um site](https://cloud-4zpw37atj-hack-club-bot.vercel.app/3elements-panel.png)
 
-Antes de prosseguir, vamos rever brevemente o que significa nosso template atual.
+**Antes de prosseguir, vamos rever brevemente o que significa nosso template atual.**
 
 O HTML funciona através do armazenamento de informações dentro das tags. O `<html></html>` é um exemplo de uma dessas tags. Dentro de `<html></html>`, colocamos dois outros conjuntos de tags: `<head></head>` (que envolve o "head") e `<body></body>` (que envolve o "body"). O body contém tudo o que você veria na aba/janela real quando você abre a página, enquanto o head transmite informações sobre a página para o navegador.
 
@@ -85,15 +79,15 @@ O `<!DOCTYPE html>` diz ao navegador qual versão do HTML deve esperar. Por ser 
 
 Vamos conferir como é o nosso arquivo HTML na visualização ao vivo! Para fazer isso, clique no botão **Run** acima do editor ou pressione <kbd>Ctrl</kbd> + <kbd>Enter</kbd> (<kbd>Command</kbd> + <kbd>Enter</kbd> em Mac).
 
-![](img/run.png)
+![Um botão verde](https://cloud-d92zz5ssb-hack-club-bot.vercel.app/0image.png)
 
 A partir daí, a visualização ao vivo à direita do editor deve mostrar como está seu site. Se você quiser vê-lo em uma nova aba, a URL acima da pré-visualização do site é a URL ao vivo para o seu site
 
-![](img/url.png)
+![Imagem de um url para um site](https://cloud-chbm1r7jn-hack-club-bot.vercel.app/0image.png)
 
 Você também pode abrir a visualização externa ao vivo clicando no ícone que se parece com uma caixa com uma seta. Isto abrirá a visualização ao vivo em uma nova aba na URL acima mencionada.
 
-![](img/preview.gif)
+![Abrindo o site em uma nova página](https://cloud-9logx0r6t-hack-club-bot.vercel.app/0v__deo_sem_t__tulo_____feito_com_o_clipchamp.gif)
 
 Como você pode ver, a página está em branco. Isto porque ainda não acrescentamos nada à seção `body`. Vamos adicionar conteúdo!
 
@@ -128,15 +122,13 @@ Se sua descrição foi alguns parágrafos, ou teve quebras de linha, você deve 
 </html>
 ```
 
-Execute seu `index.html` e veja a visualização ao vivo. Viva!
+Execute seu `index.html` e veja a visualização ao vivo. Uhuul!
 
 ### 4) Adicionando imagens ao corpo
 
 Primeiro, encontre uma imagem que você gostaria de incluir em sua página. Você pode encontrar algo no Google Imagens, Facebook, ou Imgur. Vamos precisar da URL de origem da imagem, então clique com o botão direito do mouse e selecione "Copiar endereço da imagem".
 
-![](img/copiar-img.png)
-
-As imagens são incluídas em HTML através da tag da imagem, ou `<img>`. A tag da imagem tem um atributo chamado `src`, que conterá a URL _source_ da imagem que você deseja exibir. Como exemplo, se eu adicionasse esta imagem da Profeta Orfeu, eu a clicaria com o botão direito do mouse e obteria a URL de origem, que neste caso é [https://github.com/hackclub/dinosaurs/raw/master/smart_dinosaur_docs.png](https://github.com/hackclub/dinosaurs/raw/master/smart_dinosaur_docs.png), e a colocaria em uma tag de imagem como tal:
+As imagens são incluídas no HTML por meio da tag de imagem ou `<img>`. A tag de imagem possui um atributo chamado `src`, que conterá a URL _source_ da imagem que você deseja exibir. Por exemplo, se eu adicionasse esta foto do Profeta Orfeu, clicaria com o botão direito e obteria o URL de origem, que neste caso é https://github.com/hackclub/dinosaurs/raw/master/smart_dinosaur_docs.png , e coloque-o em uma tag de imagem desse jeito:
 
 ```html
 <img
@@ -144,9 +136,9 @@ As imagens são incluídas em HTML através da tag da imagem, ou `<img>`. A tag 
 />
 ```
 
-Você deve ter notado que a tag da imagem não tem uma tag de fechamento como `<h1></h1>` ou `<body></body>`. Isso porque é um [elemento vazio](https://www.w3.org/TR/html-markup/syntax.html#syntax-elements), o que significa que não tem nenhum conteúdo.
+Você deve ter notado que a tag de imagem não tem uma tag de fechamento como `<h1></h1>` ou `<body></body>`. Isso porque é um [elemento vazio](https://www.w3.org/TR/html-markup/syntax.html#syntax-elements), o que significa que não possui nenhum conteúdo.
 
-Vá em frente e adicione isto em seu `index.html` agora. Eu coloquei minha foto antes do cabeçalho e meu código ficou assim:
+Vá em frente e adicione isso ao seu `index.html` agora. Coloquei minha foto antes do header e meu código ficou assim:
 
 ```html
 <!DOCTYPE html>
@@ -163,7 +155,7 @@ Vá em frente e adicione isto em seu `index.html` agora. Eu coloquei minha foto 
 </html>
 ```
 
-![](img/no_css.PNG)
+![dinossauro lendo um livro](img/no_css.PNG)
 
 Lembre-se, você precisa dar **Run** em seu programa toda vez que quiser ver seu website atualizado.
 
@@ -179,7 +171,7 @@ Enquanto o HTML supervisiona o conteúdo e a forma como esse conteúdo é estrut
 
 Já temos um `style.css` entre nossos arquivos. O CSS é chamado de folha de estilo externa porque o arquivo CSS é externo ao arquivo HTML (ou seja, a folha de estilo não está dentro do arquivo HTML).
 
-![](img/index_css.png)
+![Três arquivos em uma lista](https://cloud-fxxk8zq5c-hack-club-bot.vercel.app/0image.png)
 
 Embora tenhamos um arquivo CSS, até dizermos explicitamente ao arquivo HTML para usar o arquivo CSS, ele não o utilizará. Devemos vincular explicitamente o arquivo CSS no HTML. Faremos isso digitando o seguinte no cabeçalho de `index.html` (entre `<head>` e `</head>`), porque o cabeçalho é onde dizemos as informações sobre a página para o navegador.
 
@@ -255,19 +247,19 @@ Agora certifique-se de apertar **Run** para obter a versão mais recente de seu 
 
 Ah, é realmente bonito de se ver.
 
-![](img/celebrate_harry_potter.gif)
+![Harry Potter, uma criança, comemorando](img/celebrate_harry_potter.gif)
 
 ## Parte IV: Publicação
 
-O seu site agora está publicado em um link muito parecido com esse para todo mundo ver.
+Basta clicar no nome atual e depois em `name`.
 
-![](img/link-site.PNG)
+![Botão Editar para alterar o nome de um projeto](https://cloud-bpasdxn89-hack-club-bot.vercel.app/0image.png)
 
-Agora você pode compartilhar a sua criação com qualquer pessoa que tiver esse link. :)
+Assim que estiver satisfeito com o nome que lhe deu, pressione <kbd>Enter</kbd> para confirmar suas alterações.
 
-Parabéns!
+E assim seu site agora está publicado no domínio `NOMEDOPROJETO.NOMEDOUSUARIO.repl.co` na internet para todos os seus amigos verem!
 
-![](img/celebrate_rush_hour.gif)
+![Duas pessoas cantando e se movendo de um lado para o outro dentro de um carro](img/celebrate_rush_hour.gif)
 
 ## Parte V: Hackeando
 
@@ -281,6 +273,15 @@ Deseja adicionar mais texto? Toda a sua história de vida? Imagem de fundo? Mús
 
 Uma boa maneira de obter ideias sobre o que adicionar ao seu site é olhar para os sites de outras pessoas. Encontre um website que você gosta, seja da lista abaixo ou de algum outro lugar na internet, escolha um aspecto desse website que você gostaria de ter em seu próprio website, e o Google para encontrar maneiras de fazer isso acontecer!
 
+**Websites feitos por outros Hack Clubbers:**
+
+- [Zeyu (Peter) Yao](https://cytronicoder.com)
+- [Reese Armstrong](https://reeseric.ci)
+- [Malte I. Lauterbach](https://patakh.com/)
+- [Kognise](https://kognise.dev/)
+- [Celeste](https://celeste.exposed/)
+- [Leo McElroy](https://leomcelroy.com/)
+- [Sarthak Mohanty](https://sarthakmohanty.me/)
 - [Kat Huang](https://katmh.com)
 - [Theo Bleier](https://tmb.sh/)
 - [Megan Cui](https://megancui.com/)
@@ -288,6 +289,8 @@ Uma boa maneira de obter ideias sobre o que adicionar ao seu site é olhar para 
 - [Winston Iskandar](https://winstoniskandar.com)
 - [Sophie Huang](https://sohuang.github.io/)
 - [Jevin Sidhu](http://jevinsidhu.com/)
+- [Sam Poder](http://sampoder.com/)
+- [Faisal Sayed](https://fayd.me/)
 
 **Websites feitos por Profissionais:**
 
@@ -313,12 +316,3 @@ Estes são alguns recursos adicionais que você pode usar para tornar seu site a
 Agora que você terminou de construir um site, você deve compartilhar sua bela criação - porque seu site está na internet, você pode compartilhá-lo com qualquer pessoa que também esteja online! Lembre-se, é tão fácil quanto fornecer a URL!
 
 Agora que você terminou de construir este maravilhoso projeto, compartilhe sua bela criação com outras pessoas! Lembre-se, é só mandar a URL do seu projeto!
-
-Você provavelmente conhece as melhores maneiras de entrar em contato com seus amigos e familiares, mas se você quiser compartilhar seu projeto com a comunidade brasileira do Hack Club, não há melhor lugar para fazer isso do que no Discord do Hack Club Brasil.✨
-
-1. Clique [aqui][discord]{:target="_blank"} para fazer parte da nossa comunidade!
-2. Depois, poste o link do seu projeto no canal `💡┇criações` para compartilhá-lo com todos os Hack Clubbers!
-
-A comunidade te espera!🎉🎉
-
-[discord]: http://bit.ly/discord-hc-brasil

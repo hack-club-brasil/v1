@@ -12,7 +12,7 @@ order: 1
 
 <br />
 
-**Aviso: o workshop involve cores vibrantes e não é recomendado para aqueles com um histórico de epilepsia**
+**Aviso: o workshop involve cores vibrantes e não é recomendado para quem tem um histórico de epilepsia**
 
 Um dos mitos mais comuns sobre programação entre as pessoas que estão aprendendo a programar pela primeira vez é que a programação consiste principalmente em sentar-se em uma sala escura o dia todo escrevendo ~~Algoritmos~~ em uma janela de terminal preta com texto verde, resolvendo complexas equações matemáticas, e geralmente sendo um gênio. Você vai esmagar este mito nesta oficina fazendo uma pintura louca e colorida em seu navegador, em apenas 20 minutos.
 
@@ -186,12 +186,3 @@ Aqui estão alguns exemplos de projetos que surgiram a partir deste projeto:
 - [https://wlhc-paperjs-demo-custom1.glitch.me](https://wlhc-paperjs-demo-custom1.glitch.me)
 
 Agora que você terminou de construir este maravilhoso projeto, compartilhe sua bela criação com outras pessoas! Lembre-se, é só mandar a URL do seu projeto!
-
-Você provavelmente conhece as melhores maneiras de entrar em contato com seus amigos e familiares, mas se você quiser compartilhar seu projeto com a comunidade brasileira do Hack Club, não há melhor lugar para fazer isso do que no Discord do Hack Club Brasil.✨
-
-1. Clique [aqui][discord]{:target="_blank"} para fazer parte da nossa comunidade!
-2. Depois, poste o link do seu projeto no canal `💡┇criações` para compartilhá-lo com todos os Hack Clubbers!
-
-A comunidade te espera!🎉🎉
-
-[discord]: http://bit.ly/discord-hc-brasil

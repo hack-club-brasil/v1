@@ -494,12 +494,3 @@ Para referência, aqui está todo o meu arquivo `index.html` no final do worksho
 Se você checar a versão "original" que coloquei no topo, você notará algumas diferenças como cores bonitas e um som diferente. Confira meu [código fonte](https://repl.it/@hcbjcentro/sintetizador) para ver como eu fiz isso, e tente adicionar algumas novas características próprias!
 
 Agora que você terminou de construir este maravilhoso projeto, compartilhe sua bela criação com outras pessoas! Lembre-se, é só mandar a URL do seu projeto!
-
-Você provavelmente conhece as melhores maneiras de entrar em contato com seus amigos e familiares, mas se você quiser compartilhar seu projeto com a comunidade brasileira do Hack Club, não há melhor lugar para fazer isso do que no Discord do Hack Club Brasil.✨
-
-1. Clique [aqui][discord]{:target="_blank"} para fazer parte da nossa comunidade!
-2. Depois, poste o link do seu projeto no canal `💡┇criações` para compartilhá-lo com todos os Hack Clubbers!
-
-A comunidade te espera!🎉🎉
-
-[discord]: http://bit.ly/discord-hc-brasil
